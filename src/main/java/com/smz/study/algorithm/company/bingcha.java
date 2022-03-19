@@ -6,4 +6,7 @@ package com.smz.study.algorithm.company;
  * @Description: 功能:
  */
 public class bingcha {
+    public static void main(String[] args) {
+
+    }
 }
